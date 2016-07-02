@@ -1,0 +1,4 @@
+name: SyntaxBlocker
+main: com.herocc.bukkit.syntaxblocker.SyntaxBlocker
+author: HeroCC
+version: 1.0
